@@ -7,20 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Zhe Fu (傅哲) is a Ph.D. Candidate in Computing and Information Systems at the College of Computing and Informatics, the University of North Carolina at Charlotte. He holds a Bachelor's degree in Information Management and Information Systems and a Master's degree in Management Science and Engineering from Renmin University of China. He is interested in the fields of business intelligence, data-driven decisions, multimedia analysis, and generative AI, with a primary focus on the applications and analysis of AI in personalized recommender systems and social media platforms.
+Zhe Fu (傅哲) is a lecturer at the School of Information, Renmin University of China. He obtained the Ph.D. degree from the University of North Carolina at Charlotte in 2025, advised by Dr.Xi Niu. He holds a Bachelor's degree in Information Management and Information Systems and a Master's degree in Management Science and Engineering from Renmin University of China. He is interested in the fields of business intelligence, data-driven decisions, multimedia analysis, and generative AI, with a primary focus on the applications and analysis of AI in personalized recommender systems and social media platforms.
 
-You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 Reseach Area
 ======
-Dr. Fu focuses on the area of intelligent decision and management, his research topics include business intelligence, data-driven decisions, multimedia analysis, and generative AI. He has published over 20 papers at the top-tier international IS/CS journals and conferences such as POM, INFORMS JOC, I&M, ACM TKDD, SIGIR, and EMNLP.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+Dr. Fu focuses on the area of intelligent decision and management, his research topics include business intelligence, data-driven decisions, multimedia analysis, and generative AI. He has published over 20 papers at the top-tier international IS/CS journals and conferences such as POM, INFORMS JOC, I&M, ACM CSUR, ACM TKDD, SIGIR, and EMNLP. His research recieved the best complete award of PACIS 2023. He is serving as the Reviewer of Top IS/CS journals.
 
 Lab
 ======
