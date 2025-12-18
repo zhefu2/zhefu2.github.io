@@ -1,7 +1,7 @@
 ---
 title: "Fine-tuning LLMs with Cross-Attention-based Weight Decay for Bias Mitigation"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-11-paper-title-number-1
 date: 2025-11-04
 venue: 'Findings of the Conference on Empirical Methods in Natural Language Processing'
