@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2021-12-paper-title-number
 excerpt: 'Li Yu, Dongsong Zhang, <b>Zhe Fu</b>'
-date: 2021-12
+date: 2021-12-01
 venue: 'Decision Sciences'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
