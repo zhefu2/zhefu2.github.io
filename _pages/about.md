@@ -12,7 +12,7 @@ Zhe Fu (傅哲) is a lecturer at the School of Information, Renmin University of
 
 Reseach Area
 ======
-Dr. Fu focuses on the area of intelligent decision and management, his research topics include business intelligence, data-driven decisions, multimedia analysis, and generative AI. He has published over 20 papers at the top-tier international IS/CS journals and conferences such as POM, INFORMS JOC, I&M, ACM CSUR, ACM TKDD, SIGIR, and EMNLP. His research recieved the best complete award of PACIS 2023. He is serving as the Reviewer of Top IS/CS journals.
+Dr. Fu focuses on the area of intelligent decision and management, his research topics include business intelligence, data-driven decisions, multimedia analysis, and generative AI. He has published over 20 papers at the top-tier international IS/CS journals and conferences such as POM, INFORMS JOC, I&M, ACM CSUR, ACM TKDD, SIGIR, and EMNLP. His research recieved the best complete award of PACIS 2024. He is serving as the Reviewer of Top IS/CS journals.
 
 Lab
 ======
