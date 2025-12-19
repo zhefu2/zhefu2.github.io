@@ -2,7 +2,7 @@
 title: "Detecting Misinformation in Multimedia Content through Cross-Modal Entity Consistency: A Dual Learning Approach"
 collection: publications
 category: conferences
-permalink: /publication/2024-07-paper-title-number-4
+permalink: /publication/2024-07-paper-title-number
 excerpt: '<b>Zhe Fu</b>, Kanlun Wang, Wangjiaxuan Xin, Lina Zhou, Shi Chen, Yaorong Ge, Daniel Janies, Dongsong Zhang <b>(Best Complete Paper Award Winner of PACIS 2024)</b>'
 date: 2024-07-01
 venue: 'Pacific-Asia Conference on Information Systems (PACIS) Proceedings'
