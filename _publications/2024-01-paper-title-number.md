@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-01-paper-title-number
 excerpt: '<b>Zhe Fu</b>, Kanlun Wang, Jianfei Wang, Yunqin Zhu'
 date: 2024-01-03
-venue: '57th Hawaii International Conference on System Sciences'
+venue: 'Proceedings of the 57th Hawaii International Conference on System Sciences'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
 
