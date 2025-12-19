@@ -2,7 +2,7 @@
 title: "Deep Learning Models for Serendipity Recommendations: A Survey and New Perspectives"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-08-paper-title-number
+permalink: /publication/2023-08-paper-title-number
 excerpt: '<b>Zhe Fu</b>, Xi Niu, Mary Lou Maher'
 date: 2025-08-26
 venue: 'ACM Computing Surveys'
