@@ -1,0 +1,11 @@
+---
+title: "Predicting Sales Lift of Influencer-generated Short Video Advertisements: A Ladder Attention-based Multimodal Time Series Forecasting Framework"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-01-paper-title-number-3
+date: 2024-01-01
+venue: '57th Hawaii International Conference on System Sciences'
+citation: 'Fu, Z., Wang, K., Wang, J., and Zhu, Y. (2024). &quot;Predicting Sales Lift of Influencer-generated Short Video Advertisements: A Ladder Attention-based Multimodal Time Series Forecasting Framework.&quot; <i>Proceedings of the 57th Hawaii International Conference on System Sciences (HICSS ’24)</i>, 2843-2852. January 3-6, 2024, Honolulu, Hawaii.'
+---
+
+With the growing popularity of video-sharing platforms and video influencers, influencer-generated short video advertisements (ISAs) have rapidly emerged as a crucial marketing tool. However, effectively predicting the sales lift of multiple ISAs presents significant challenges due to the multimodal content of ISAs and their impact of joint complexity on product sales. In this research, we design a novel time series forecasting framework that leverages ladder attentionbased multimodal to predict the sales lift of multiple ISAs. Our framework, enriched by a novel ladder attention model and a customized LSTM-based time series forecasting model, addresses the challenges of predicting the sales lift of multiple ISAs. We conduct experiments using our proposed framework on a comprehensive dataset of ISAs collected from TikTok, and our results demonstrate superior performance in comparison to the baseline methods. This study not only offers a novel predictive tool in short video advertisement optimization but also serves as a guide in multimodal prediction in information systems and marketing research.
