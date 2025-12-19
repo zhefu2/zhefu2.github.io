@@ -39,6 +39,6 @@ Guest Lecturer, UNC Charlotte
 Service and leadership
 ======
 * Reviewer for Journal: Nature Scientific Reports, IEEE Transactions on Knowledge and Data Engineering, Decision Support Systems, Knowledge and Information Systems, Information & Management
-* PC Member of Conference: TheWebConf, AAAI, ICLR
+* PC Member of Conference: TheWebConf, AAAI
 * Professional Membership: Institute for Operations Research and the Management Sciences (INFORMS), Association for Computing Machinery (ACM)
 
