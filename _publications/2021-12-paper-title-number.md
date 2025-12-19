@@ -1,5 +1,5 @@
 ---
-title: "MT-GPD: A Multimodal Deep Transfer Learning Model Enhanced by Auxiliary Mechanisms for Cross-Domain Online Fake News Detection"
+title: "CE‐DIFF: An Approach to Identifying and Coping with Irregular Ratings in Collaborative Decision Making"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-12-paper-title-number
