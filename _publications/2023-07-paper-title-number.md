@@ -1,5 +1,5 @@
 ---
-title: "Wisdom of crowds and fine-grained learning for serendipity recommendations"
+title: "Wisdom of Crowds and Fine-grained Learning for Serendipity Recommendations"
 collection: publications
 category: conferences
 permalink: /publication/2023-07-paper-title-number
