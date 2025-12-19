@@ -2,7 +2,7 @@
 title: "Digital Voices of Survival: From Social Media Disclosures to Tailored Support for Domestic Violence Victims"
 collection: publications
 category: conferences
-permalink: /publication/2026-01-paper-title-number-4
+permalink: /publication/2026-01-paper-title-number
 excerpt: 'Kanlun Wang, <b>Zhe Fu</b>, Wangjiaxuan Xin, Lina Zhou, Shashi Kiran Chandrappa'
 date: 2026-01-06
 venue: 'Proceedings of the 59th Hawaii International Conference on System Sciences'
