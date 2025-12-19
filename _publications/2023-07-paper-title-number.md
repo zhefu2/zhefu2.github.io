@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2023-07-paper-title-number
 excerpt: '<b>Zhe Fu</b>, Xi Niu, Li Yu'
-date: 2025-07-19
+date: 2023-07-19
 venue: 'Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
