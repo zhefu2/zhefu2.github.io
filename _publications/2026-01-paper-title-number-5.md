@@ -3,7 +3,7 @@ title: "Digital Voices of Survival: From Social Media Disclosures to Tailored Su
 collection: publications
 category: conferences
 permalink: /publication/2026-01-paper-title-number-4
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2026-01-06
 venue: '59th Hawaii International Conference on System Sciences'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
