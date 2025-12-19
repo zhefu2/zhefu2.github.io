@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-08-paper-title-number
 excerpt: '<b>Zhe Fu</b>, Xi Niu, Mary Lou Maher'
-date: 2025-08-26
+date: 2023-08-26
 venue: 'ACM Computing Surveys'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
