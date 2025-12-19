@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Honors and Awards"
-permalink: /honors/
+permalink: /talks/
 author_profile: true
 ---
 
