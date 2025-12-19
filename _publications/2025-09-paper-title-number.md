@@ -2,7 +2,7 @@
 title: "Stylometric Characteristics of Code-Switched Offensive Language in Social Media"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-09-paper-title-number-2
+permalink: /publication/2025-09-paper-title-number
 excerpt: 'Lina Zhou, <b>Zhe Fu</b>'
 date: 2025-09-01
 venue: 'Information & Management'
