@@ -2,7 +2,7 @@
 title: "Predicting Sales Lift of Influencer-generated Short Video Advertisements: A Ladder Attention-based Multimodal Time Series Forecasting Framework"
 collection: publications
 category: conferences
-permalink: /publication/2024-01-paper-title-number-3
+permalink: /publication/2024-01-paper-title-number
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-01-03
 venue: '57th Hawaii International Conference on System Sciences'
