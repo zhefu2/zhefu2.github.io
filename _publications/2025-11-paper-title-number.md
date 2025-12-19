@@ -2,7 +2,7 @@
 title: "Fine-tuning LLMs with Cross-Attention-based Weight Decay for Bias Mitigation"
 collection: publications
 category: conferences
-permalink: /publication/2025-11-paper-title-number-1
+permalink: /publication/2025-11-paper-title-number
 excerpt: 'Farsheed Haque, <b>Zhe Fu</b>, Depeng Xu, Shuhan Yuan, Xi Niu'
 date: 2025-11-04
 venue: 'Findings of the Conference on Empirical Methods in Natural Language Processing'
