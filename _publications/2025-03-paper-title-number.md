@@ -1,5 +1,5 @@
 ---
-title: "A deep learning model for cross-domain serendipity recommendations"
+title: "A Deep Learning Model for Cross-domain Serendipity Recommendations"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-paper-title-number
