@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2026-01-paper-title-number-4
 excerpt: 'Kanlun Wang, <b>Zhe Fu</b>, Wangjiaxuan Xin, Lina Zhou, Shashi Kiran Chandrappa'
 date: 2026-01-06
-venue: 'Proceedings of the 59th Hawaii International Conference on System Sciences (HICSS ’26)'
+venue: 'Proceedings of the 59th Hawaii International Conference on System Sciences'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
 Domestic Violence (DV) is a pervasive public health problem characterized by patterns of coercive and abusive behavior within intimate relationships. With the rise of social media as a key outlet for DV victims to disclose their experiences, online self-disclosure has emerged as a critical yet underexplored avenue for support-seeking. In addition, existing research lacks a comprehensive and nuanced understanding of DV self-disclosure, support provisions, and their connections. To address these gaps, this study proposes a novel computational framework for modeling DV support-seeking behavior alongside community support mechanisms. The framework consists of four key components: self-disclosure detection, post clustering, topic summarization, and support extraction and mapping. We implement and evaluate the framework with data collected from relevant social media communities. Our findings not only advance existing knowledge on DV self-disclosure and online support provisions but also enable victim-centered digital interventions.
