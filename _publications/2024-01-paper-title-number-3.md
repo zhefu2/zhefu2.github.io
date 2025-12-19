@@ -3,6 +3,7 @@ title: "Predicting Sales Lift of Influencer-generated Short Video Advertisements
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-paper-title-number-3
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-01-03
 venue: '57th Hawaii International Conference on System Sciences'
 citation: 'Fu, Z., Wang, K., Wang, J., and Zhu, Y. (2024). &quot;Predicting Sales Lift of Influencer-generated Short Video Advertisements: A Ladder Attention-based Multimodal Time Series Forecasting Framework.&quot; <i>Proceedings of the 57th Hawaii International Conference on System Sciences (HICSS ’24)</i>, 2843-2852. January 3-6, 2024, Honolulu, Hawaii.'
