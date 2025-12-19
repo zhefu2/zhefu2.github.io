@@ -3,7 +3,7 @@ title: "Detecting Misinformation in Multimedia Content through Cross-Modal Entit
 collection: publications
 category: conferences
 permalink: /publication/2024-07-paper-title-number
-excerpt: '<b>Zhe Fu</b>, Kanlun Wang, Wangjiaxuan Xin, Lina Zhou, Shi Chen, Yaorong Ge, Daniel Janies, Dongsong Zhang <b>(Best Complete Paper Award Winner of PACIS 2024)</b>'
+excerpt: '<b>Zhe Fu</b>, Kanlun Wang, Wangjiaxuan Xin, Lina Zhou, Shi Chen, Yaorong Ge, Daniel Janies, Dongsong Zhang <b>(<u>Best Complete Paper Award Winner of PACIS 2024</u>)</b>'
 date: 2024-07-01
 venue: 'Pacific-Asia Conference on Information Systems (PACIS) Proceedings'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
