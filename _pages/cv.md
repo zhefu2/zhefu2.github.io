@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2025.12-present: Lecturer
+* 2025.12-Present: Lecturer
   * School of Information
   * Renmin University of China
 
