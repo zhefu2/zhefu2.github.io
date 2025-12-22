@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-======
 * [2025] CCI Essam El-Kwae Student-Faculty Research Award, UNC Charlotte
 * [2024] Best Complete Paper Award Winner, PACIS
 * [2024] The Graduate School’s Summer Fellowship, UNC Charlotte
