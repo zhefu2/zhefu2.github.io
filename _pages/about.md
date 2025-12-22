@@ -17,5 +17,3 @@ Dr. Fu focuses on the area of intelligent decision and management, his research 
 Lab
 ======
 Dr. Fu serves as the member for Big Data Analytics and Intelligent Decision-Making Lab at School of Information, Renmin University of China. The lab is dedicated to the advancement of social governance and decision support systems, aimed at creating more intelligent, efficient, explainable, and visuiable information systems. If you share the interests, please reach out and consider joining the lab!
-
-![Editing a Markdown file for a talk](/images/Lab.jpg)
