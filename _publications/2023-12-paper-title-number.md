@@ -3,7 +3,7 @@ title: "Leveraging Uncertainty Quantification for Reducing Data for Recommender 
 collection: publications
 category: conferences
 permalink: /publication/2025-02-paper-title-number
-excerpt: 'Xi Niu, Ruhani Rahman, Xiangcheng Wu, <b>Zhe Fu</b>, Depeng Xu, Riyi Qiu'
+excerpt: 'Xi Niu, Ruhani Rahman, Xiangcheng Wu, Riyi Qiu, <b>Zhe Fu</b>, Depeng Xu'
 date: 2023-12-15
 venue: '2023 IEEE International Conference on Big Data'
 paperurl: 'http://zhefu2.github.io/files/BigData2023.pdf'
