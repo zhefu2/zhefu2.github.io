@@ -12,5 +12,5 @@ author_profile: true
 * [2024] The Graduate School’s Summer Fellowship, UNC Charlotte
 * [2016] Honorable Mention, The Mathematical Contest in Modeling
 * [2015] Second Class Scholarship, Sa Shixuan Elite Foundation, Renmin University of China
-* [2015] Second Place, Contemporary Undergraduate Mathematical Contest in Modeling
+* [2015] Second Place, China Undergraduate Mathematical Contest in Modeling
 * [2015] Second Place, “Challenge Cup” College Academic and Technology Competition (Beijing)
